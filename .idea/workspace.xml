@@ -138,8 +138,8 @@
       <file leaf-file-name="onepage-personal.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37789905">
-              <caret line="333" column="48" selection-start-line="333" selection-start-column="48" selection-end-line="333" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.76366323">
+              <caret line="372" column="37" selection-start-line="372" selection-start-column="37" selection-end-line="372" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -212,24 +212,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Mazel-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasonlibbey.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasonlibbey.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mazel-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,8 +341,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37789905">
-          <caret line="333" column="48" selection-start-line="333" selection-start-column="48" selection-end-line="333" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.76366323">
+          <caret line="372" column="37" selection-start-line="372" selection-start-column="37" selection-end-line="372" selection-end-column="37" />
           <folding />
         </state>
       </provider>
