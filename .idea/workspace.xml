@@ -2,106 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d68e27-6a21-4bdf-ba91-c47290e8921d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/404-error-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/about-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/about-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/about-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blank-page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-1col-sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-1col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-grid-2col-sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-grid-2col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-grid-3col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-masonry-2col-sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-masonry-2col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-masonry-3col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-audio-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-image-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-quote-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-slider-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-video-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-vimeo-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/blog-single-youtube-post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/contact-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/contact-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/contact-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-components.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-tabs-and-accordian.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-team.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-typography.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/element-video-and-audio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/faq-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/faq-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-agency-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-agency-masonry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-canvas-pattern.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-coming-soon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-fullscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-fullwidth-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-personal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-section-scroll.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-static.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-text-rotator1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-text-rotator2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home-youtube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/login-register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-canvas-pattern.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-fullwidth-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-static.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-text-rotator1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-text-rotator2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-youtube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-classical-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-classical-spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-2col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-2col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-3col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-3col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-4col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-grid-4col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-lightbox-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-lightbox-masonry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-2col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-2col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-3col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-3col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-4col-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-masonry-4col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single5-slider.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single6-video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single7-youtube.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-single8-vimeo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-wide-grid-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-wide-grid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-wide-masonry-no_spacing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/portfolio-wide-masonry.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/pricing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/send-mail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/service-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/service-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/service-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-2col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-3col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-4col.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-checkout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-left-sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/shop-right-sidebar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/sidebar-left.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/sidebar-right.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" afterPath="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -128,8 +28,8 @@
       <file leaf-file-name="404-error-2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -138,9 +38,12 @@
       <file leaf-file-name="onepage-personal.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76366323">
-              <caret line="372" column="37" selection-start-line="372" selection-start-column="37" selection-end-line="372" selection-end-column="37" />
-              <folding />
+            <state vertical-scroll-proportion="0.5457026">
+              <caret line="377" column="58" selection-start-line="377" selection-start-column="58" selection-end-line="377" selection-end-column="58" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,6 +96,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,15 +131,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -268,10 +172,19 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="23d68e27-6a21-4bdf-ba91-c47290e8921d" name="Default" comment="" />
@@ -323,6 +236,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -333,7 +254,26 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
@@ -341,9 +281,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76366323">
-          <caret line="372" column="37" selection-start-line="372" selection-start-column="37" selection-end-line="372" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5457026">
+          <caret line="377" column="58" selection-start-line="377" selection-start-column="58" selection-end-line="377" selection-end-column="58" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
