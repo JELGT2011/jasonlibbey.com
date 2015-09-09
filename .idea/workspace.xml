@@ -2,9 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d68e27-6a21-4bdf-ba91-c47290e8921d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mazel-html-template/404-error-2.html" afterPath="$PROJECT_DIR$/Mazel-html-template/404-error-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" afterPath="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/D3-Google-Maps ScreenShot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin/masonry.pkgd.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/css/doc-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/img/image_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/img/logo-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/img/logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/google-code-prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/google-code-prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/jquery.singlePageNav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/assets/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentaion/help-file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/YTPlayer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/jquery.fullPage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/smoothproducts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/EasePack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/TweenLite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.downCount.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.fullPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.mb.YTPlayer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.simple-text-rotator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/pollyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/smoothproducts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/track1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/video1.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/video1.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/video1.webm" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/404-error-2.html" afterPath="$PROJECT_DIR$/404-error-2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/ionicons.css" afterPath="$PROJECT_DIR$/css/ionicons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/jquery-ui.css" afterPath="$PROJECT_DIR$/css/jquery-ui.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/navigation.css" afterPath="$PROJECT_DIR$/css/navigation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/animate.css" afterPath="$PROJECT_DIR$/css/plugin/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/colorbox.css" afterPath="$PROJECT_DIR$/css/plugin/colorbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/flexslider.css" afterPath="$PROJECT_DIR$/css/plugin/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/jPushMenu.css" afterPath="$PROJECT_DIR$/css/plugin/jPushMenu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/jquery.fs.tipper.css" afterPath="$PROJECT_DIR$/css/plugin/jquery.fs.tipper.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/mediaelementplayer.css" afterPath="$PROJECT_DIR$/css/plugin/mediaelementplayer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/plugin/owl.carousel.css" afterPath="$PROJECT_DIR$/css/plugin/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/fonts/ionicons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/fonts/ionicons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/fonts/ionicons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/fonts/ionicons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/about1.jpg" afterPath="$PROJECT_DIR$/img/about1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/cbox-controls.png" afterPath="$PROJECT_DIR$/img/cbox-controls.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/close-black.png" afterPath="$PROJECT_DIR$/img/close-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/close-color.png" afterPath="$PROJECT_DIR$/img/close-color.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/close-white.png" afterPath="$PROJECT_DIR$/img/close-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-001-o-default.png" afterPath="$PROJECT_DIR$/img/demo/img-001-o-default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-002-o-video.png" afterPath="$PROJECT_DIR$/img/demo/img-002-o-video.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-003-o-youtube.png" afterPath="$PROJECT_DIR$/img/demo/img-003-o-youtube.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-004-o-static.png" afterPath="$PROJECT_DIR$/img/demo/img-004-o-static.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-005-o-pattern.png" afterPath="$PROJECT_DIR$/img/demo/img-005-o-pattern.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-006-o-fullwidthSlider.png" afterPath="$PROJECT_DIR$/img/demo/img-006-o-fullwidthSlider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-007-o-textRotator1.png" afterPath="$PROJECT_DIR$/img/demo/img-007-o-textRotator1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-008-o-textRotator2.png" afterPath="$PROJECT_DIR$/img/demo/img-008-o-textRotator2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-009-o-personal.png" afterPath="$PROJECT_DIR$/img/demo/img-009-o-personal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-01-h-default.png" afterPath="$PROJECT_DIR$/img/demo/img-01-h-default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-02-h-video.png" afterPath="$PROJECT_DIR$/img/demo/img-02-h-video.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-03-h-youtube.png" afterPath="$PROJECT_DIR$/img/demo/img-03-h-youtube.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-04-h-static.png" afterPath="$PROJECT_DIR$/img/demo/img-04-h-static.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-05-h-pattern.png" afterPath="$PROJECT_DIR$/img/demo/img-05-h-pattern.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-06-h-fullwidthSlider.png" afterPath="$PROJECT_DIR$/img/demo/img-06-h-fullwidthSlider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-07-h-fullscreen.png" afterPath="$PROJECT_DIR$/img/demo/img-07-h-fullscreen.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-08-h-textRotator1.png" afterPath="$PROJECT_DIR$/img/demo/img-08-h-textRotator1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-09-h-textRotator2.png" afterPath="$PROJECT_DIR$/img/demo/img-09-h-textRotator2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-10-h-agency-grid.png" afterPath="$PROJECT_DIR$/img/demo/img-10-h-agency-grid.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-11-h-agency-Masonry.png" afterPath="$PROJECT_DIR$/img/demo/img-11-h-agency-Masonry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-12-h-personal.png" afterPath="$PROJECT_DIR$/img/demo/img-12-h-personal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-13-h-pageSectionScroll.png" afterPath="$PROJECT_DIR$/img/demo/img-13-h-pageSectionScroll.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-14-h-shop.png" afterPath="$PROJECT_DIR$/img/demo/img-14-h-shop.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/demo/img-15-h-commingSoon.png" afterPath="$PROJECT_DIR$/img/demo/img-15-h-commingSoon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/favicon.ico" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/favicon.png" afterPath="$PROJECT_DIR$/img/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/01.jpg" afterPath="$PROJECT_DIR$/img/full/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/02.jpg" afterPath="$PROJECT_DIR$/img/full/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/03.jpg" afterPath="$PROJECT_DIR$/img/full/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/04.jpg" afterPath="$PROJECT_DIR$/img/full/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/05.jpg" afterPath="$PROJECT_DIR$/img/full/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/06.jpg" afterPath="$PROJECT_DIR$/img/full/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/07.jpg" afterPath="$PROJECT_DIR$/img/full/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/08.jpg" afterPath="$PROJECT_DIR$/img/full/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/09.jpg" afterPath="$PROJECT_DIR$/img/full/09.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/10.jpg" afterPath="$PROJECT_DIR$/img/full/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/11.jpg" afterPath="$PROJECT_DIR$/img/full/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/12.jpg" afterPath="$PROJECT_DIR$/img/full/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/13.jpg" afterPath="$PROJECT_DIR$/img/full/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/14.jpg" afterPath="$PROJECT_DIR$/img/full/14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/15.jpg" afterPath="$PROJECT_DIR$/img/full/15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/16.jpg" afterPath="$PROJECT_DIR$/img/full/16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/17.jpg" afterPath="$PROJECT_DIR$/img/full/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/18.jpg" afterPath="$PROJECT_DIR$/img/full/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/19.jpg" afterPath="$PROJECT_DIR$/img/full/19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/20.jpg" afterPath="$PROJECT_DIR$/img/full/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/21.jpg" afterPath="$PROJECT_DIR$/img/full/21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/22.jpg" afterPath="$PROJECT_DIR$/img/full/22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/23.jpg" afterPath="$PROJECT_DIR$/img/full/23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/24.jpg" afterPath="$PROJECT_DIR$/img/full/24.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/25.jpg" afterPath="$PROJECT_DIR$/img/full/25.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/26.jpg" afterPath="$PROJECT_DIR$/img/full/26.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/27.jpg" afterPath="$PROJECT_DIR$/img/full/27.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/28.jpg" afterPath="$PROJECT_DIR$/img/full/28.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/29.jpg" afterPath="$PROJECT_DIR$/img/full/29.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/full/30.jpg" afterPath="$PROJECT_DIR$/img/full/30.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/loading.GIF" afterPath="$PROJECT_DIR$/img/loading.GIF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logo-black.png" afterPath="$PROJECT_DIR$/img/logo-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logo-color.png" afterPath="$PROJECT_DIR$/img/logo-color.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logo-white.png" afterPath="$PROJECT_DIR$/img/logo-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/01.png" afterPath="$PROJECT_DIR$/img/logos/01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/02.png" afterPath="$PROJECT_DIR$/img/logos/02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/03.png" afterPath="$PROJECT_DIR$/img/logos/03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/04.png" afterPath="$PROJECT_DIR$/img/logos/04.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/05.png" afterPath="$PROJECT_DIR$/img/logos/05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/06.png" afterPath="$PROJECT_DIR$/img/logos/06.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/07.png" afterPath="$PROJECT_DIR$/img/logos/07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/logos/08.png" afterPath="$PROJECT_DIR$/img/logos/08.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/map-marker.png" afterPath="$PROJECT_DIR$/img/map-marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/moc-1.png" afterPath="$PROJECT_DIR$/img/moc-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/moc-2.png" afterPath="$PROJECT_DIR$/img/moc-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/moc-3.png" afterPath="$PROJECT_DIR$/img/moc-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/10.jpg" afterPath="$PROJECT_DIR$/img/portfolio/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/11.jpg" afterPath="$PROJECT_DIR$/img/portfolio/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/12.jpg" afterPath="$PROJECT_DIR$/img/portfolio/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/13.jpg" afterPath="$PROJECT_DIR$/img/portfolio/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/14.jpg" afterPath="$PROJECT_DIR$/img/portfolio/14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/15.jpg" afterPath="$PROJECT_DIR$/img/portfolio/15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/16.jpg" afterPath="$PROJECT_DIR$/img/portfolio/16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/17.jpg" afterPath="$PROJECT_DIR$/img/portfolio/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/18.jpg" afterPath="$PROJECT_DIR$/img/portfolio/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/19.jpg" afterPath="$PROJECT_DIR$/img/portfolio/19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/20.jpg" afterPath="$PROJECT_DIR$/img/portfolio/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/21.jpg" afterPath="$PROJECT_DIR$/img/portfolio/21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/22.jpg" afterPath="$PROJECT_DIR$/img/portfolio/22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/23.jpg" afterPath="$PROJECT_DIR$/img/portfolio/23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/24.jpg" afterPath="$PROJECT_DIR$/img/portfolio/24.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/25.jpg" afterPath="$PROJECT_DIR$/img/portfolio/25.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/26.jpg" afterPath="$PROJECT_DIR$/img/portfolio/26.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/27.jpg" afterPath="$PROJECT_DIR$/img/portfolio/27.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/28.jpg" afterPath="$PROJECT_DIR$/img/portfolio/28.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/29.jpg" afterPath="$PROJECT_DIR$/img/portfolio/29.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/30.jpg" afterPath="$PROJECT_DIR$/img/portfolio/30.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/31.jpg" afterPath="$PROJECT_DIR$/img/portfolio/31.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/32.jpg" afterPath="$PROJECT_DIR$/img/portfolio/32.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/33.jpg" afterPath="$PROJECT_DIR$/img/portfolio/33.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/34.jpg" afterPath="$PROJECT_DIR$/img/portfolio/34.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/35.jpg" afterPath="$PROJECT_DIR$/img/portfolio/35.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/7.jpg" afterPath="$PROJECT_DIR$/img/portfolio/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/8.jpg" afterPath="$PROJECT_DIR$/img/portfolio/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/portfolio/9.jpg" afterPath="$PROJECT_DIR$/img/portfolio/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/01.jpg" afterPath="$PROJECT_DIR$/img/product/01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/02.jpg" afterPath="$PROJECT_DIR$/img/product/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/03.jpg" afterPath="$PROJECT_DIR$/img/product/03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/04.jpg" afterPath="$PROJECT_DIR$/img/product/04.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/05.jpg" afterPath="$PROJECT_DIR$/img/product/05.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/06.jpg" afterPath="$PROJECT_DIR$/img/product/06.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/07.jpg" afterPath="$PROJECT_DIR$/img/product/07.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/product/08.jpg" afterPath="$PROJECT_DIR$/img/product/08.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/sidemenu-icon-color.png" afterPath="$PROJECT_DIR$/img/sidemenu-icon-color.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/sidemenu-icon-dark.png" afterPath="$PROJECT_DIR$/img/sidemenu-icon-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/sidemenu-icon-light.png" afterPath="$PROJECT_DIR$/img/sidemenu-icon-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/team/people-1.jpg" afterPath="$PROJECT_DIR$/img/team/people-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/team/people-2.jpg" afterPath="$PROJECT_DIR$/img/team/people-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/team/people-3.jpg" afterPath="$PROJECT_DIR$/img/team/people-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/team/people-4.jpg" afterPath="$PROJECT_DIR$/img/team/people-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/tma1_x_03.jpg" afterPath="$PROJECT_DIR$/img/tma1_x_03.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/img/user-av.jpg" afterPath="$PROJECT_DIR$/img/user-av.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/contact-form.js" afterPath="$PROJECT_DIR$/js/contact-form.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/js/jquery-ui.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/navigation.js" afterPath="$PROJECT_DIR$/js/navigation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/background-check.min.js" afterPath="$PROJECT_DIR$/js/plugin/background-check.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/imagesloaded.pkgd.min.js" afterPath="$PROJECT_DIR$/js/plugin/imagesloaded.pkgd.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jPushMenu.js" afterPath="$PROJECT_DIR$/js/plugin/jPushMenu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.colorbox-min.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.colorbox-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.easing.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.easing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.fitvids.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.fitvids.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.flexslider.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.flexslider.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.fs.tipper.min.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.fs.tipper.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.singlePageNav.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.singlePageNav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.stellar.min.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.stellar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/jquery.viewportchecker.js" afterPath="$PROJECT_DIR$/js/plugin/jquery.viewportchecker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/mediaelement-and-player.min.js" afterPath="$PROJECT_DIR$/js/plugin/mediaelement-and-player.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/plugin/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/plugin/wow.min.js" afterPath="$PROJECT_DIR$/js/plugin/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/js/theme.js" afterPath="$PROJECT_DIR$/js/theme.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/Libbey, Jason - Resume.pdf" afterPath="$PROJECT_DIR$/media/Libbey, Jason - Resume.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/img/background.png" afterPath="$PROJECT_DIR$/media/img/background.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/img/bigplay.png" afterPath="$PROJECT_DIR$/media/img/bigplay.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/img/controls.png" afterPath="$PROJECT_DIR$/media/img/controls.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/img/loading.gif" afterPath="$PROJECT_DIR$/media/img/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/media/img/skipback.png" afterPath="$PROJECT_DIR$/media/img/skipback.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" afterPath="$PROJECT_DIR$/onepage-personal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasonlibbey.com.iws" />
@@ -27,14 +245,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="onepage-personal.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+        <entry file="file://$PROJECT_DIR$/onepage-personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4297408">
-              <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -51,6 +267,9 @@
       <list>
         <option value="$PROJECT_DIR$/Mazel-html-template/404-error-2.html" />
         <option value="$PROJECT_DIR$/Mazel-html-template/onepage-personal.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/onepage-personal.html" />
       </list>
     </option>
   </component>
@@ -62,6 +281,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="23" />
     <option name="width" value="1436" />
     <option name="height" value="877" />
@@ -89,7 +309,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -107,24 +326,11 @@
               <option name="myItemId" value="jasonlibbey.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mazel-html-template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasonlibbey.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasonlibbey.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,10 +339,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Mazel-html-template/media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -193,16 +404,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1436" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="4" y="23" width="1436" height="877" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21130742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19081272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909784" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -210,7 +422,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -250,64 +461,128 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404-error-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
+    <entry file="file://$PROJECT_DIR$/404-error-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/404-error-2.html">
+    <entry file="file://$PROJECT_DIR$/404-error-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4297408">
           <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mazel-html-template/onepage-personal.html">
+    <entry file="file://$PROJECT_DIR$/css/plugin/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4297408">
-          <caret line="146" column="18" selection-start-line="146" selection-start-column="18" selection-end-line="146" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.2173913">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/img/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/img/bigplay.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onepage-personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
